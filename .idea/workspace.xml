@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47066ddf-099c-4734-b7b4-87907ce3750c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/stacker/stack/stack.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/stacker/stacker.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/polar2cartesian/polar2cartesian.go" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/main/bigdigits.go" afterPath="$PROJECT_DIR$/src/bigdigits.go" />
-      <change beforePath="$PROJECT_DIR$/main/hello.go" afterPath="$PROJECT_DIR$/src/hello.go" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,14 +14,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="stacker.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="stacker.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/stacker/stacker.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+            <state relative-caret-position="152">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
-                <element signature="e#14#59#0" expanded="true" />
+                <element signature="e#14#48#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="polar2cartesian.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/polar2cartesian/polar2cartesian.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="61" column="19" lean-forward="false" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+              <folding>
+                <element signature="e#14#72#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scan.go" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/software/go/src/fmt/scan.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="112" column="5" lean-forward="false" selection-start-line="112" selection-start-column="5" selection-end-line="112" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bufio.go" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/software/go/src/bufio/bufio.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="454" column="17" lean-forward="false" selection-start-line="454" selection-start-column="17" selection-end-line="454" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="print.go" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/software/go/src/fmt/print.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="244" column="5" lean-forward="false" selection-start-line="244" selection-start-column="5" selection-end-line="244" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -41,6 +80,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>parent</find>
+      <find>type not a pointer</find>
+      <find>type not a pointer:</find>
     </findStrings>
   </component>
   <component name="GOROOT" path="$USER_HOME$/software/go" />
@@ -59,13 +100,14 @@
       <list>
         <option value="$PROJECT_DIR$/main/hello.go" />
         <option value="$PROJECT_DIR$/main/bigdigits.go" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/main/stack.go" />
         <option value="$PROJECT_DIR$/main/stack/stack.go" />
         <option value="$PROJECT_DIR$/main/stacker.go" />
         <option value="$PROJECT_DIR$/main/stacker/stacker.go" />
         <option value="$PROJECT_DIR$/src/stacker/stack/stack.go" />
         <option value="$PROJECT_DIR$/src/stacker/stacker.go" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/polar2cartesian/polar2cartesian.go" />
       </list>
     </option>
   </component>
@@ -127,19 +169,6 @@
               <item name="programming-in-go" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="programming-in-go" type="b2602c69:ProjectViewProjectNode" />
-              <item name="programming-in-go" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="stacker" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="programming-in-go" type="b2602c69:ProjectViewProjectNode" />
-              <item name="programming-in-go" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="stacker" type="462c0819:PsiDirectoryNode" />
-              <item name="stack" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -175,7 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build stacker.go (1)">
+  <component name="RunManager" selected="Go Build.go build polar2cartesian.go">
     <configuration name="go build bigdigits.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="programming-in-go" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -190,6 +219,14 @@
       <go_parameters value="-i" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/main/hello.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build polar2cartesian.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="programming-in-go" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/polar2cartesian/polar2cartesian.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
     <configuration name="go build stacker.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
@@ -208,18 +245,20 @@
       <filePath value="$PROJECT_DIR$/main/stacker/stacker.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Go Build.go build hello.go" />
       <item index="1" class="java.lang.String" itemvalue="Go Build.go build bigdigits.go" />
       <item index="2" class="java.lang.String" itemvalue="Go Build.go build stacker.go" />
       <item index="3" class="java.lang.String" itemvalue="Go Build.go build stacker.go (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Go Build.go build polar2cartesian.go" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Go Build.go build stacker.go (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Go Build.go build stacker.go" />
-        <item index="2" class="java.lang.String" itemvalue="Go Build.go build bigdigits.go" />
-        <item index="3" class="java.lang.String" itemvalue="Go Build.go build hello.go" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Go Build.go build polar2cartesian.go" />
+        <item index="1" class="java.lang.String" itemvalue="Go Build.go build stacker.go (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Go Build.go build stacker.go" />
+        <item index="3" class="java.lang.String" itemvalue="Go Build.go build bigdigits.go" />
+        <item index="4" class="java.lang.String" itemvalue="Go Build.go build hello.go" />
       </list>
     </recent_temporary>
   </component>
@@ -234,17 +273,17 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24980237" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45771143" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4568306" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -288,14 +327,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-171">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/stacker/stack/stack.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-266">
@@ -314,12 +345,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/stacker/stacker.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        <state relative-caret-position="152">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
-            <element signature="e#14#59#0" expanded="true" />
+            <element signature="e#14#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/software/go/src/fmt/print.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="244" column="5" lean-forward="false" selection-start-line="244" selection-start-column="5" selection-end-line="244" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/software/go/src/bufio/bufio.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="454" column="17" lean-forward="false" selection-start-line="454" selection-start-column="17" selection-end-line="454" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/software/go/src/log/log.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3215">
+          <caret line="316" column="5" lean-forward="false" selection-start-line="316" selection-start-column="5" selection-end-line="316" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/software/go/src/fmt/scan.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="112" column="5" lean-forward="false" selection-start-line="112" selection-start-column="5" selection-end-line="112" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/polar2cartesian/polar2cartesian.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="61" column="19" lean-forward="false" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+          <folding>
+            <element signature="e#14#72#0" expanded="true" />
           </folding>
         </state>
       </provider>
